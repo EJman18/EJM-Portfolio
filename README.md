@@ -5,6 +5,8 @@
 
 ## Education
  - B.S., Commerce, Specialization in Information Technology and Management | The University of Virginia (_May 2025_)
+ - <img width="480" height="640" alt="image" src="https://github.com/user-attachments/assets/20109c14-4799-4f0f-a153-f51b087cea9c" />
+
 
 ## Work Experience
 **Social Media Manager, College Reporting LLC, Chantilly, VA, August 2024 – Present** 
