@@ -5,7 +5,7 @@
 
 ## Education
  - B.S., Commerce, Specialization in Information Technology and Management | The University of Virginia (_May 2025_)
- - <img width="480" height="640" alt="image" src="https://github.com/user-attachments/assets/20109c14-4799-4f0f-a153-f51b087cea9c" />
+ https://github.com/EJman18/EJM-Portfolio/blob/main/imgs/UVA%20Logo.png?raw=true 
 
 
 ## Work Experience
