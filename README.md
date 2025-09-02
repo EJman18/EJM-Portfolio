@@ -7,7 +7,6 @@
  - B.S., Commerce, Specialization in Information Technology and Management | The University of Virginia (_May 2025_)
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/61436eeb-c4a3-4a6e-9d2d-8e79b843f0b0" />
 
-
 ## Work Experience
 **Social Media Manager, College Reporting LLC, Chantilly, VA, August 2024 – Present** 
 - Managed website content across multiple platforms, ensuring optimized and visually appealing social media webpages to enhance user experience and produced digital media advertising for 10+ clients, including DoorList (https://www.doorlist.app/) and The Clearly Collective (https://www.theclearlycollective.com/), to help conversion rates
