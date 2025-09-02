@@ -1,5 +1,5 @@
 title: Elijah McFarland
-logo: https://github.com/EJman18/EJM-Portfolio/blob/main/imgs/Headshot_1.jpeg?raw=true
+logo: /imgs/Headshot_1.jpeg
 Description: Aspiring Analyst 
 #show_downloads: true
 Theme: jekyll-theme-minimal
