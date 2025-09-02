@@ -15,6 +15,7 @@
 - Maintained consistent, professional correspondence with students and professor of Digital Skills for the Workplace
 - Attended bi-weekly classes, graded participation, and collaborated with the professor by helping students with hands-on learning labs in business processes diagrams, Tableau, RapidMiner, and Excel for a cohort of 10 students.
 - Enhanced my understanding of course management and educational leadership skills in Information Technology, while strengthening my ability to translate technical concepts in a data-driven learning environment 
+
 **Undergraduate Teacher Assistant, University of Virginia, Charlottesville, VA 	August 2024 – May 2025** 
 - Supported course operations for Commerce 1800, including weekly office hours, assignment grading, and course communication for 160+ students.
 - Delivered constructive feedback between students and faculty, enhancing clarity and positive student outcomes
