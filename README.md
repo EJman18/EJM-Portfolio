@@ -22,7 +22,7 @@
 - Delivered constructive feedback between students and faculty, enhancing clarity and positive student outcomes
 - Developed strategic communication and problem-solving skills while gaining insight into course design and academic leadership
 
-## Projects
+## University Projects
 ### Using Data Analytics in Healthcare
 - Conducted a comprehensive analysis of a health care system and fictitious dataset, identifying key demographics and factors contributing to readmission risk
 - Built a predictive model using RapidMiner’s random forest algorithm, achieving a **64.37%** accuracy in forecasting readmission likelihood, and presented via a professional slide deck with strategic recommendations based on customer profiles, giving the fictitious company a net benefit of **$5,321,123**
