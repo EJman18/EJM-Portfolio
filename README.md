@@ -1,4 +1,4 @@
-# Business/Data Analyst
+# Business Analyst
 
 #### Technical Skills: SQL, R-Studio, Python, Excel
 #### Visualization Skills: Tableau, Power BI
