@@ -22,6 +22,16 @@
 - Delivered constructive feedback between students and faculty, enhancing clarity and positive student outcomes
 - Developed strategic communication and problem-solving skills while gaining insight into course design and academic leadership
 
+## Extracurricular Activities 
+**Mentor, The Collegiate 100, Charlottesville, VA, September 2023 – May 2025**
+- Educated and built relationships with Black and Brown youth around Charlottesville by tutoring and facilitating events
+- Coordinated and led academic tours at the University of Virginia, introducing over 20+ K-12 students to diverse majors and pathways, which allowed them to have early exposure to higher education opportunities 
+
+**Fraternity Member, Theta Delta Chi, Charlottesville, VA, January 2022 – May 2025**
+- Held multiple leadership roles such as: Diversity, Equity, and Inclusion Chair, Philanthropy Chair, and Academic Chair, driving inclusive programs, helping community engagement, and improving academic performance 
+- Contributed to a 9% increase in average fraternity GPA for 3.2 to 3.5 with the help of academic programs using feedback  
+
+
 ## University Projects
 ### [Using Data Analytics in Healthcare](https://github.com/EJman18/EJM-Portfolio/blob/main/imgs/Data%20Analytics%20in%20Healthcare.pdf)
 - Conducted a comprehensive analysis of a health care system and fictitious dataset, identifying key demographics and factors contributing to readmission risk
