@@ -42,7 +42,7 @@ Thank you for reviewing my work and I look forward to the opportunity to connect
 
 
 ## University Projects
-### [Using Data Analytics in Healthcare](https://github.com/EJman18/EJM-Portfolio/blob/main/imgs/Data%20Analytics%20in%20Healthcare.pdf)
+### Using Data Analytics in Healthcare
 - Conducted a comprehensive analysis of a health care system and fictitious dataset, identifying key demographics and factors contributing to readmission risk
 - Built a predictive model using RapidMiner’s random forest algorithm, achieving a **64.37%** accuracy in forecasting readmission likelihood, and presented via a professional slide deck with strategic recommendations based on customer profiles, giving the fictitious company a net benefit of **$5,321,123**
   
