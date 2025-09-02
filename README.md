@@ -1,5 +1,9 @@
 # Data Analyst
 
+In this portfolio, you'll find a curated selection of projects that highlight my data analytics capabilities across platforms such as Power BI, Tableau, SQL, Python, and Excel. Each report is designed to transform complex datasets into clear, actionable insights—delivered through visually compelling dashboards, and analytical narratives that support informed decision-making. These projects reflect not only my technical proficiency, but also my ability to communicate data-driven strategies that drive business value. I’m confident that my experience and analytical mindset position me as a strong candidate for data analyst roles across industries.
+
+Thank you for reviewing my work and I look forward to the opportunity to connect and discuss how I can contribute to your team’s success.
+
 #### Technical Skills: SQL, R-Studio, Python, Excel
 #### Visualization Skills: Tableau, Power BI
 
