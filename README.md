@@ -13,7 +13,7 @@ Thank you for reviewing my work and I look forward to the opportunity to connect
 #### Visualization Skills: Tableau, Power BI
 
 ## Education
- - B.S., Commerce, Specialization in Information Technology and Management | The University of Virginia (_May 2025_)
+ - B.S., Commerce, Specialization in Information Technology and Management with a Track in Business Analytics | The University of Virginia (_May 2025_)
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/61436eeb-c4a3-4a6e-9d2d-8e79b843f0b0" />
 
 ## Work Experience
