@@ -1,4 +1,4 @@
-# Data Analyst
+## Data Analyst
 # Introduction 
 <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/12b61d81-a9e6-4176-a34a-d1240c284b14" />
 
