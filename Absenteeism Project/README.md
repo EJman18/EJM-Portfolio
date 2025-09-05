@@ -23,8 +23,9 @@ The Wireframe PowerBI Dashboard can be downloaded [here.]
 The SQL queries utilized in this project can be found [here.]
 
 ## Data Structure and Data Understanding 
-- WellCore Solutions structure as seen below consists of three data sources: **employees**, **compensation**, and **reasons** with a total row count of 740 records of structured data. Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset. Three data quality checks were intiated, which loked for missing values, nouse and outliers, and duplicate data. The dataset passed the data quality check, and it was pushed through to SQL for queries creation. 
-- 
+WellCore Solutions structure as seen below consists of three data sources: **employees**, **compensation**, and **reasons** with a total row count of 740 records of structured data. Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset. Three data quality checks were intiated, which loked for missing values, nouse and outliers, and duplicate data. The dataset passed the data quality check, and it was pushed through to SQL for queries creation. 
+
+Below are ERD Models of the Dataset: 
 
 ## Executive Summary
 **Overview of Findings**
@@ -33,7 +34,7 @@ The SQL queries utilized in this project can be found [here.]
 Above is the overview page from the PowerBI dashboard and the entire wireframe PowerBI dashboard can be downloaded [here.] 
 
 ## Recommendations 
-Based on the insights, the following recommendations have been provided: 
+**Based on the insights, the following recommendations have been provided:**
 - 111 employees (15% of total employees) were found to have low absenteeism and healthy lifestyle indicators. The healthy lifestyle indicators means that they do not drink, smoke, and have a BMI that is less than 25. For absenteeism, to be considered low, we made sure that the employee is lower than the average absenteeism amount. **That means with WellCore Solutions $15,000 Healthy Bonus Program, the 111 employees will be granted a $135.15 bonus due to this program.** 
 - 686 employees are non-smokers, and with a budget of $983,221 from insurance, **these employees will have a .68 cent per hour increase or an annual $1,414.4 per year increase.**
 - Despite a 686 employees being nonsmokers, there are 320 employees (53% decrease, which makes sense due to a smaller budget) are non-drinkers, and with a budget of $200,000 from insurance, **these employees will have a .22 cent per hour increase or an annual $457.60 per year increase.** 
