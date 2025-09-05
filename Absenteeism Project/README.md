@@ -1,4 +1,4 @@
-# Reducing Absenteeism Through Behavioral Segmentation and Compensation Analytics 
+# Optimizing Workforce Wellness: Reducing Absenteeism Through Behavioral Segmentation and Compensation Analytics 
 ## Skills Utitilized
 #### Technical Skills: Excel and SQL 
 #### Visualization Skills: Power BI
