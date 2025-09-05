@@ -25,9 +25,10 @@ Insights and recommendations are provided on the following key areas:
 - 
 
 ## Executive Summary
-- Overview of Findings
--- WellCore Solutions has identified 111 employees (15% of total employees) with low absenteeism and healthy lifestyles, awarding each a $135.15 bonus through its $15,000 wellness program. Additionally, 686 non-smokers will receive a $0.68/hour raise (or a $1414.40 per year increase) from the $983,221 insurance budget, while 320 non-drinkers earn $0.22/hour raise (or a $457.60 per year increase) from the insurance $200,000 budget. Despite these incentives, absenteeism remains high due to medical consultations and musculoskeletal issues. Targeted wellness interventions are recommended, primarily for health coaching for social drinkers, who face elevated risks of injury and fatigue. 
--- Below is the overview page from the PowerBI dashboard and the entire interactive dashboard can be downloaded here. 
+Overview of Findings
+- WellCore Solutions has identified 111 employees (15% of total employees) with low absenteeism and healthy lifestyles, awarding each a $135.15 bonus through its $15,000 wellness program. Additionally, 686 non-smokers will receive a $0.68/hour raise (or a $1414.40 per year increase) from the $983,221 insurance budget, while 320 non-drinkers earn $0.22/hour raise (or a $457.60 per year increase) from the insurance $200,000 budget. Despite these incentives, absenteeism remains high due to medical consultations and musculoskeletal issues. Targeted wellness interventions are recommended, primarily for health coaching for social drinkers, who face elevated risks of injury and fatigue. 
+
+Below is the overview page from the PowerBI dashboard and the entire interactive dashboard can be downloaded here. 
 
 ## Recommendations 
 - Based on the insights, the following recommendations have been provided: 
