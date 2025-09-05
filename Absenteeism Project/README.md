@@ -20,6 +20,7 @@ WellCore Solutions have a significant amount of data on their employees includin
 -   **Absenteeism Dashboard Development**: Build a dashboard based on an approved wireframe from HR. Visualize absenteeism trends, patterns, and correlations with health behaviors.
 
 The Wireframe PowerBI Dashboard can be downloaded [here.] 
+
 The SQL queries utilized in this project can be found [here.]
 
 ## Data Structure and Data Understanding 
