@@ -17,18 +17,20 @@ Insights and recommendations are provided on the following key areas:
 -   **Compensation for Non-smokers**: Calculate the increase or annual compensation adjustments. Ensure alignment with an insurance budget of $983,221 dedicated to non-smokers
 -   **Compensation for Non-drinkers**: Similar to non-smokers, determine the wage or annual compensation adjustment. We have to utilize a $200,000 insurance budget for non-drinkers.
 -   **Root Cause Analysis of Absenteeism**: Investigate and report on the primary drivers of absenteeism within WellCore Solutions. Use statistical and behavioral data to inform HR strategy
--   **Absenteeism Dashboard Development**: Build a dashboard based on an approved wireframe from HR. Visualize absenteeism trends, patterns, and correlations with health behaviors. 
+-   **Absenteeism Dashboard Development**: Build a dashboard based on an approved wireframe from HR. Visualize absenteeism trends, patterns, and correlations with health behaviors.
 
+The Wireframe PowerBI Dashboard can be downloaded [here.] 
+The SQL queries utilized in this project can be found [here.]
 
 ## Data Structure and Data Understanding 
 - WellCore Solutions structure as seen below consists of three data sources: **employees**, **compensation**, and **reasons** with a total row count of 740 records of structured data. Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset. Three data quality checks were intiated, which loked for missing values, nouse and outliers, and duplicate data. The dataset passed the data quality check, and it was pushed through to SQL for queries creation. 
 - 
 
 ## Executive Summary
-Overview of Findings
+**Overview of Findings**
 - WellCore Solutions has identified 111 employees (15% of total employees) with low absenteeism and healthy lifestyles, awarding each a $135.15 bonus through its $15,000 wellness program. Additionally, 686 non-smokers will receive a $0.68/hour raise (or a $1414.40 per year increase) from the $983,221 insurance budget, while 320 non-drinkers earn $0.22/hour raise (or a $457.60 per year increase) from the insurance $200,000 budget. Despite these incentives, absenteeism remains high due to medical consultations and musculoskeletal issues. Targeted wellness interventions are recommended, primarily for health coaching for social drinkers, who face elevated risks of injury and fatigue. 
 
-Below is the overview page from the PowerBI dashboard and the entire interactive dashboard can be downloaded here. 
+Above is the overview page from the PowerBI dashboard and the entire wireframe PowerBI dashboard can be downloaded [here.] 
 
 ## Recommendations 
 Based on the insights, the following recommendations have been provided: 
@@ -44,6 +46,3 @@ Based on the insights, the following recommendations have been provided:
 - We have no time frame in which this data was collected, so we assume it was this year. 
 - We assume the absenteeism causes are correctly reported with no errors.
 - And lastly, correlation does not equal causation.
-
-
-
