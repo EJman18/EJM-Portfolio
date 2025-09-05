@@ -19,20 +19,24 @@ WellCore Solutions have a significant amount of data on their employees includin
 -   **Root Cause Analysis of Absenteeism**: Investigate and report on the primary drivers of absenteeism within WellCore Solutions. Use statistical and behavioral data to inform HR strategy
 -   **Absenteeism Dashboard Development**: Build a dashboard based on an approved wireframe from HR. Visualize absenteeism trends, patterns, and correlations with health behaviors.
 
-The Wireframe PowerBI Dashboard can be downloaded [here.] 
-
-The SQL queries utilized in this project can be found [here.]
+The SQL queries utilized in this project can be found [here.](https://github.com/EJman18/EJM-Portfolio/blob/main/Absenteeism%20Project/files/Absenteeism_SQL_Query.sql)
 
 ## Data Structure and Data Understanding 
 WellCore Solutions structure as seen below consists of three data sources: **employees**, **compensation**, and **reasons** with a total row count of 740 records of structured data. Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the dataset. Three data quality checks were initiated, which loked for missing values, noise and outliers, and duplicate data. The dataset passed the data quality check, and it was pushed through to SQL for queries creation. 
 
 Below are ERD Models of the Dataset: 
+<img width="193" height="396" alt="image" src="https://github.com/user-attachments/assets/924cdac0-6acf-4ddb-b3f9-e7c40e822b9f" />
+<img width="155" height="53" alt="image" src="https://github.com/user-attachments/assets/13fbd2a7-6e5c-4baf-b445-314d2998f6ec" />
+<img width="79" height="59" alt="image" src="https://github.com/user-attachments/assets/7ce2db4e-2be1-43d7-a941-0a36b742936c" />
 
 ## Executive Summary
 **Overview of Findings**
 - WellCore Solutions has identified 111 employees (15% of total employees) with low absenteeism and healthy lifestyles, awarding each a $135.15 bonus through its $15,000 wellness program. Additionally, 686 non-smokers will receive a $0.68/hour raise (or a $1414.40 per year increase) from the $983,221 insurance budget, while 320 non-drinkers earn $0.22/hour raise (or a $457.60 per year increase) from the insurance $200,000 budget. Despite these incentives, absenteeism remains high due to medical consultations and musculoskeletal issues. Targeted wellness interventions are recommended, primarily for health coaching for social drinkers, who face elevated risks of injury and fatigue. 
 
-Above is the overview page from the PowerBI dashboard and the entire wireframe PowerBI dashboard can be downloaded [here.] 
+Here is a snapchat of the Wireframe sent to the HR of WellCore Solutions: 
+<img width="721" height="773" alt="image" src="https://github.com/user-attachments/assets/2a5a4cec-f64f-46c9-bca0-7c99157ca32c" />
+
+Above is the overview page from the PowerBI dashboard and the entire wireframe PowerBI dashboard can be downloaded [here.](https://github.com/EJman18/EJM-Portfolio/blob/main/Absenteeism%20Project/files/Absenteeism%20at%20WellCore%20Solutions.pbix) 
 
 ## Recommendations 
 **Based on the insights, the following recommendations have been provided:**
