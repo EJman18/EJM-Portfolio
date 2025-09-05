@@ -52,4 +52,5 @@ Above is the overview page from the PowerBI dashboard and the entire wireframe P
 - On the same note, we have binary claffication of drinkers vs. non-drinkers (and smokers vs. Non-smokers) with no grey area. For example, a light social drinker and a heavy weekend drinker are treated the same. 
 - We have no time frame in which this data was collected, so we assume it was this year. 
 - We assume the absenteeism causes are correctly reported with no errors.
+- If we had more time for the project, I would look into segments of transportation, see if people drive their own cars or use city transportation, which might make a difference if an employee is late, absent, or not. (Cars could break down or an employee could miss time a bus route) 
 - And lastly, correlation does not equal causation.
