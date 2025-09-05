@@ -11,10 +11,11 @@ WellCore Solutions have a significant amount of data on their employees includin
 - Optimizing insurance budget allocations 
 - Enhancing visibility into workforce health trends
 
+
 - Insights and recommendations are provided on the following key areas:
--- **Healthy Bonus Program Analysis**: Identify employees with low absenteeism and healthy lifestyle indicators. Allocate a total bonus pool of $15,000 across qualifying individuals.  
--- **Compensation for Non-smokers**: Calculate the increase or annual compensation adjustments. Ensure alignment with an insurance budget of $983,221 dedicated to non-smokers 
--- **Compensation for Non-drinkers**: Similar to non-smokers, determine the wage or annual compensation adjustment. We have to utilize a $200,000 insurance budget for non-drinkers.
+-   **Healthy Bonus Program Analysis**: Identify employees with low absenteeism and healthy lifestyle indicators. Allocate a total bonus pool of $15,000 across qualifying individuals.
+-   **Compensation for Non-smokers**: Calculate the increase or annual compensation adjustments. Ensure alignment with an insurance budget of $983,221 dedicated to non-smokers
+-   **Compensation for Non-drinkers**: Similar to non-smokers, determine the wage or annual compensation adjustment. We have to utilize a $200,000 insurance budget for non-drinkers.
 -- **Root Cause Analysis of Absenteeism**: Investigate and report on the primary drivers of absenteeism within WellCore Solutions. Use statistical and behavioral data to inform HR strategy  
 -- **Absenteeism Dashboard Development**: Build a dashboard based on an approved wireframe from HR. Visualize absenteeism trends, patterns, and correlations with health behaviors. 
 
