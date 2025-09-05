@@ -1,4 +1,4 @@
-# Optimizing Workforce Wellness: Reducing Absenteeism Through Behavioral and Compensation Analytics 
+# Optimizing Workforce Wellness: Reducing Absenteeism Through Data Analytics 
 ## Skills Utitilized
 #### Technical Skills: Excel and SQL 
 #### Visualization Skills: Power BI
